@@ -45,7 +45,7 @@ SQLite is wiped on free hosts, so use a free hosted Postgres.
 
 Note: the app shows other people's entries after a page refresh (pull down), not instantly.
 
-## 3. Evaluate for CA4
+## 3. Evaluate 
 ```bash
 python train_eval.py
 ```
